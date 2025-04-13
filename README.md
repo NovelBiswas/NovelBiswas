@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Novel Biswas</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">An Aspiring Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/ed/a4/f1eda4768df8d8135c779772f2833e88.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novelbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="novelbiswas" /> </p>
